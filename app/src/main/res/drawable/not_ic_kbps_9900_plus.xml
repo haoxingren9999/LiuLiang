@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/not_mbps" android:top="@dimen/botom_klpd" />
+    <item android:drawable="@drawable/not_num_1" android:left="@dimen/bottom1_1_left" android:top="@dimen/upper_t" android:right="@dimen/bottom1_1_r" android:bottom="@dimen/bottom" />
+    <item android:drawable="@drawable/not_num_0" android:left="@dimen/bottom1_d_l" android:top="@dimen/upper_t" android:right="@dimen/bottom1_d_r" android:bottom="@dimen/bottom" />
+    <item android:drawable="@drawable/not_num_plus" android:left="@dimen/bottom1_2_left" android:top="@dimen/upper_t" android:right="@dimen/bottom1_2_r" android:bottom="@dimen/bottom" />
+</layer-list>
